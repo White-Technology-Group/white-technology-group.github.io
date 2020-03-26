@@ -32,6 +32,9 @@ url: "https://whitetechnologygroup.com" # the base hostname & protocol for your 
 theme: minima
 plugins:
   - jekyll-feed
+
+# Site optimization
+include: [.htaccess]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
