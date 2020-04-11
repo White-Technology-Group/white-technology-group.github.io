@@ -94,8 +94,9 @@ img::-moz-selection {
 }
 
 .btn-primary {
-    background-color: #464655;
-    border-color: #464655
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #464655
 }
 
 .btn-primary:active,
@@ -103,7 +104,7 @@ img::-moz-selection {
 .btn-primary:hover {
     background-color: #B1D7FF !important;
     border-color: #B1D7FF !important;
-    color: #fff
+    color: #464655
 }
 
 .btn-primary:active,
